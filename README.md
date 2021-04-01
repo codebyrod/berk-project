@@ -12,4 +12,4 @@ Dentro da tecnologia das CSS utilizei:
 - Display Flex
 - Position com z-index
 - Hover
-- 4 @media para trabalhar a responsividade para a maioria das telas. Sobretudo para as telas de Laptop de Desktop de 1440px x 633px; Tablet de 768px x 1024px; Mobile 320px x 640px;
+- 4 @media para trabalhar a responsividade para a maioria das telas. Sobretudo para as telas de Laptop de 1440px x 633px; Tablet de 768px x 1024px; Mobile 320px x 640px;
