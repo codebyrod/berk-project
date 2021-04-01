@@ -3,7 +3,7 @@
 # Berk-project
 Project developed to compete for a selection process
 
-Nesse projeto tivemos que reproduzir um layouy pré-definido através da plataforma AdobeXD.
+Nesse projeto tivemos que reproduzir um layout pré-definido através da plataforma AdobeXD.
 
 Para a reprodução usei as linguagens de HTML e das CSS.
 
