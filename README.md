@@ -1,6 +1,6 @@
 <img src="assets/img/readme.png" align="right" width="500">
 
-# Berk-project
+# Website Berk
 Project developed to compete for a selection process
 
 Nesse projeto tivemos que reproduzir um layout pré-definido através da plataforma AdobeXD.
