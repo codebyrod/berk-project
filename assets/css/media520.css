@@ -1,0 +1,71 @@
+/* Display: mobile base moto g4 - 320px x 640px */
+
+@media (max-width: 520px) {
+
+    .div-header-container-title h2 {
+        font-size: 2rem;
+    }
+
+    .div-header-container-title h4 {
+        font-size: 1rem;
+    }
+
+    .div-header-container-title p {
+        font-size: 0.75rem;
+    }
+
+    .div-header-container-figure {
+        flex-direction: row;
+        width: 20rem;
+        height: 19.5rem;
+    }
+
+    .header-container-figure-plum {
+        width: 15.5rem;
+        height: 16.5rem;
+        left: 10%;
+    }
+
+    .header-container-figure-mustard {
+        width: 13rem;
+        height: 8rem;
+        position: absolute;
+        top: 8rem;
+        left: 0.2rem;
+    }
+
+    .header-container-figure-olive {
+        width: 6rem;
+        height: 4rem;
+        top: 10.5rem;
+        left: 13.5rem;
+    }
+
+    .header-container-nav-bottom ul {
+        font-size: 0.75rem;
+    }
+
+    .footer-container-p-copyright,
+    .footer-container-p-contato {
+        font-size: 1rem;
+        font-weight: 400;
+    }
+
+    .footer-container-icons img {
+        width: 1.4rem;
+        height: 1.4rem;
+    }
+
+    .footer-container-icons .logo-ytb {
+        height: 1.8rem;
+        width: 1.8rem;
+    }
+
+    .footer-container-p-final {
+        text-transform: capitalize;
+        font-size: 0.75rem;
+        font-weight: 400;
+        text-align: center;
+    }
+
+}

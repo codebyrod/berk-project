@@ -1,0 +1,49 @@
+@media (max-width: 1300px) {
+
+    .header-container-title {
+        justify-content: center;
+    }
+
+    .div-header-container-title {
+        align-items: center;
+    }
+    
+    .div-header-container-title h2 {
+        width: 32rem;
+        font-size: 3rem;
+    }
+    
+    .div-header-container-title h4 {
+        width: 32rem;
+        font-size: 1.50rem;
+    }
+    
+    .div-header-container-title p {
+        width: 32rem;
+    }
+
+    .div-header-container-figure {
+        flex-direction: row;
+        width: 30rem;
+        height: 23.5rem;
+    }
+
+    .header-container-figure-plum {
+        z-index: 1;
+        left: 9%;
+    }
+
+    .header-container-figure-mustard {
+        width: 24rem;
+        height: 14rem;
+        top: 4rem;
+        left: -4.5rem;
+    }
+
+    .header-container-figure-olive {
+        width: 9rem;
+        height: 6rem;
+        top: 10rem;
+        left: 20.3rem;
+    }
+}

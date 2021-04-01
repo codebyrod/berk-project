@@ -1,0 +1,113 @@
+/* Display: tablet base ipad 768px x 1024px */
+
+@media (max-width: 768px) {
+
+    .header-container-initial {
+        flex-direction: column;
+    }
+
+    .figure-header-logo-container {
+        width: 85vw;
+    }
+
+    .header-container-nav-up ul {
+        width: 100vw;
+        height: 3rem;
+        align-items: center;
+    }
+
+    .header-container-title {
+        height: 33rem;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+
+    .div-header-container-title {
+        width: 85vw;
+        height: 12rem;
+        margin-top: 0;
+        justify-content: flex-start;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .div-header-container-title h2 {
+        width: 75vw;
+        font-size: 2.45rem;
+    }
+
+    .div-header-container-title h4 {
+        width: 75vw;
+        font-size: 1.25rem;
+        color: #45CFC9;
+    }
+
+    .div-header-container-title p {
+        width: 75vw;
+        font-size: 0.9rem;
+    }
+
+    .div-header-container-figure {
+        flex-direction: row;
+        width: 24rem;
+        height: 23.5rem;
+    }
+
+    .header-container-figure-plum {
+        width: 17.5rem;
+        height: 18.5rem;
+        left: 10%;
+    }
+
+    .header-container-figure-mustard {
+        width: 17rem;
+        height: 9rem;
+        top: 7rem;
+        left: -3.5rem;
+    }
+
+    .header-container-figure-olive {
+        width: 10rem;
+        height: 5rem;
+        top: 10.5rem;
+        left: 14.5rem;
+    }
+
+    .header-container-nav-bottom ul {
+        font-size: 1rem;
+    }
+
+    .main-container-img img {
+        width: 80%;
+        height: 40%;
+    }
+
+    .footer-container {
+        height: 35rem;
+    }
+
+    .div-footer-container {
+        height: 18rem;
+        align-items: space-around;
+        flex-direction: column;
+        padding-top: 0;
+    }
+
+    .footer-container h4 {
+        text-transform: uppercase;
+        font-size: 1rem;
+        font-weight: bolder;
+        text-align: center;
+    }
+
+    .div2-footer-container {
+        height: 10rem;
+        text-align: center;
+        flex-wrap: wrap;
+    }
+
+    .footer-container-p-copyright,
+    .footer-container-p-contato {
+        font-size: 1.2rem;
+    }
+}
